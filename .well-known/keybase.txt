@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dukenguyen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://immensehorse.github.io
+  * I am dukenguyen (https://keybase.io/dukenguyen) on keybase.
+  * I have a public key ASDKZa1CwogKhjuYq3OZOiaGUxj6V6_UPDX8r5_Yo71RQAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ca65ad42c2880a863b98ab73993a26865318fa57afd43c35fcaf9fd8a3bd51400a",
+      "host": "keybase.io",
+      "kid": "0120ca65ad42c2880a863b98ab73993a26865318fa57afd43c35fcaf9fd8a3bd51400a",
+      "uid": "4e3c738f03764b5cec708992b7040c19",
+      "username": "dukenguyen"
+    },
+    "merkle_root": {
+      "ctime": 1709001569,
+      "hash": "1d7d7f9d835e21b408cae0a01068ba4c8e9daafc8168a4d4c5d041916e13ed8b7b99af846c45575e0a2fd301418c877c01bd54c60291cc83517217a77d607de3",
+      "hash_meta": "4b170ac4aff613387620f2cea8a87118f277145c3edb0dea065a33a38dadf2c0",
+      "seqno": 25496693
+    },
+    "service": {
+      "entropy": "K6fIsaf4C+wF52ZTLk8MVH73",
+      "hostname": "immensehorse.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.5"
+  },
+  "ctime": 1709001592,
+  "expire_in": 504576000,
+  "prev": "a00c766c2a142b4910474b6a69eed8d473510f9cd73f13af2a60f05117f59356",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgymWtQsKICoY7mKtzmTomhlMY+lev1Dw1/K+f2KO9UUAKp3BheWxvYWTESpcCDcQgoAx2bCoUK0kQR0tqae7Y1HNRD5zXPxOvKmDwURf1k1bEIEKPbKz9myHZ2RxE0GTEV4p/Hsn+/Y/G3DLXPg2vekIpAgHCo3NpZ8RAFPws5zerkol4lXxkYzC4d4rn5wL33KxjGC8/S1cISDIlX95lGgdk/m/cIps+8qHMQCeBhPlx/3yNbAhYkrh6AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDCwldP5igZo3zfFtzQvtJBq4kQxzaFCiHL5B9NlO/U/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dukenguyen
+
+==================================================================
